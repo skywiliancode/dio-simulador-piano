@@ -1,0 +1,7 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  outline: none;/*Mata o efeito tab*/
+  font-family: "Poppins", sans-serif;
+}
